@@ -152,16 +152,20 @@
 								<a class="collapsible">
 									<div class="collapsible-link">[pictures]</div>
 								</a>
-								<!-- <div class="collapsible-link">[pictures]</div> -->
 								<div class="collapsible-content">
 									<div class="collapsible-description">
 										<span class="close">&times;</span>
 										<div class="collapsible-description-header">
-											<a href="https://www.cis.upenn.edu/news/awards/" target="blank">
-												<img class="logo" src="files/Awards_ceremony/Facetune_27-04-2023-15-50-18.JPG" style="width: 80%;">
-											</a>
+											<div id="slideshow" style="display: grid; place-items: center;">
+												<img src="files/SRC/DSC_0992.jpg" style="width: 700px; height: 500px;">
+												<img src="files/SRC/DSC_0748.jpg" style="width: 700px; height: 500px;">
+												<img src="files/SRC/DSC_0981.jpg" style="width: 700px; height: 500px;">
+												<img src="files/SRC/Facetune_08-04-2023-23-33-47.jpeg" style="width: 500px; height: 500px; margin-left: 120px;">
+												<img src="files/SRC/IMG_7120.jpeg" style="width: 400px; height: 500px; margin-left: 160px;"> 
+											  </div>
+											<!-- <img class="logo" src="files/SRC/DSC_0748.jpg" style="width: 80%;"> -->
 										</div>
-										Test
+										Had a blast at Stanford Research Conference! I had the pleasure of meeting wonderful undergraduate students from all over the country and I was awarded best poster presentation in Computer Science!
 									</div>
 								</div>
 							</li>
@@ -690,5 +694,15 @@
 		<script src="script.js"></script>
 		<script src="space.js"></script>
 		<script src="app.js"></script>
+		<script>
+			$(document).ready(function() {
+			  $('#slideshow').cycle({
+				fx: 'fade',
+				speed: 500,
+				timeout: 3000
+			  });
+			});
+		  </script>
+		  
 	</body>
 </html>
