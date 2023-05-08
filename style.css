@@ -417,8 +417,22 @@ html{
 	cursor: pointer;
   }
 
-  .link-button-bibtex {
+.link-button-bibtex {
 	background-color: gray;
+	color: white;
+	padding: 4px;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .link-button-poster {
+	background-color: #F4C430;
 	color: white;
 	padding: 4px;
 	border: none;
