@@ -444,6 +444,48 @@ html{
 	margin: 4px 2px;
 	cursor: pointer;
   }
+
+  .link-button-pictures {
+	background-color: #4077de;
+	color: white;
+	padding: 4px;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .link-button-video {
+	background-color: purple;
+	color: white;
+	padding: 4px;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+
+  .link-button-slides {
+	background-color: orange;
+	color: white;
+	padding: 4px;
+	border: none;
+	border-radius: 5px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
   
   
 
