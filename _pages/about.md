@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Per aspera, ad astra" — "Through hardships to the stars."
+subtitle: Per aspera, ad astra — Through hardships to the stars.
 
 profile:
   align: right
