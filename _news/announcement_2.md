@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Very excited to receive Best Poster Presentation Award at the Stanford Research Conference!
+date: 2023-04-09 16:11:00-0400
 inline: false
 related_posts: false
 ---
