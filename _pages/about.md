@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Per aspera, ad astra" — "Through hardships to the stars."
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 I am Hannah Gonzalez [(she/her)](https://pronouns.org/she-her). I graduated with an M.S.E. and a B.S.E. in Computer Science from the [University of Pennsylvania](https://www.upenn.edu) in 2023. I minored in Mathematics and Engineering Entrepreneurship as well. I am grateful to be advised by [Professor Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/).
 
-I am excited about harnessing <strong>foundation models for social good</strong>. In particular, I am drawn to the following research directions:
+I am excited about harnessing foundation models for social good. In particular, I am drawn to the following research directions:
 
 `NLP for Social Good: Quality in Education.` How can we use NLP research to tackle social problems? For example, in education, how can we improve students' learning experiences and empower teachers to deliver more effective instruction?
 
