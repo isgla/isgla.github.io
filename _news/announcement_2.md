@@ -10,9 +10,9 @@ I had the pleasure of attending the 2023 Stanford Research Conference, where I p
 
 ![Best Poster Award](src/src_1.jpeg)
 
-![Poster Presentation](src/src_2.jpg)
+![Poster Presentation](src_2.jpg)
 
-![Best Poster Award](src/src_3.jpeg)
+![Best Poster Award](assets/img/src/src_3.jpeg)
 
 ![SRC group picture](src/src_4.jpg)
 
