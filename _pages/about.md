@@ -12,7 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am Hannah Gonzalez [(she/her)](https://pronouns.org/she-her). I graduated Magna Cum Laude from the [University of Pennsylvania](https://www.upenn.edu) with an M.S.E. and a B.S.E. in Computer Science in 2023. I minored in Mathematics and Engineering Entrepreneurship as well. I am grateful to my research advisors [Professor Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/), [Eleni Miltsakaki](https://www.miltsakaki.com), and [Professor Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/).
