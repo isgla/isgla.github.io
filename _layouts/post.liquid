@@ -66,9 +66,9 @@ layout: default
     {% if page.images %}
     <div class="post-images">
       {% for image in page.images %}
-        <div class="post-image">
-          <img class="z-depth-1 rounded" src="{{ image }}" alt="Additional Image" loading="lazy">
-        </div>
+      <div class="post-image">
+        <img class="z-depth-1 rounded" src="{{ image }}" alt="Additional Image" loading="lazy" width="300" height="auto">
+      </div>
       {% endfor %}
     </div>
   {% endif %}
