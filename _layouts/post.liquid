@@ -63,6 +63,15 @@ layout: default
       </div>
       <hr>
     {% endif %}
+    {% if page.images %}
+    <div class="post-images">
+      {% for image in page.images %}
+        <div class="post-image">
+          <img class="z-depth-1 rounded" src="{{ image }}" alt="Additional Image" loading="lazy">
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
     <div id="markdown-content">
       {{ content }}
     </div>
