@@ -228,10 +228,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - blog.md
-  - dropdown.md
-  - repositories.md
-  - teaching.md
 keep_files:
   - CNAME
   - .nojekyll
