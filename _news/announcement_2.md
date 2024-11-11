@@ -8,13 +8,13 @@ related_posts: false
 
 I had the pleasure of attending the 2023 Stanford Research Conference, where I presented my work in Question Answering in Education. I am very honored to have been awarded the Best Poster Award at the conference. 
 
-![Best Poster Award](assets/img/src/src_1.jpg)
+![Best Poster Award](src/src_1.jpeg)
 
-![Poster Presentation](assets/img/src/src_2.jpg)
+![Poster Presentation](src/src_2.jpg)
 
-![Best Poster Award](assets/img/src/src_3.jpg)
+![Best Poster Award](src/src_3.jpeg)
 
-![SRC group picture](assets/img/src/src_4.jpg)
+![SRC group picture](src/src_4.jpg)
 
-![SRC fun group picture](assets/img/src/src_5.jpg)
+![SRC fun group picture](src/src_5.jpg)
 ---
