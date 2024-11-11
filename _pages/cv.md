@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: https://isgla.github.io/assets/pdf/Hannah_Resume.pdf
+permalink: assets/pdf/Hannah_Resume.pdf
 title: CV
 nav: true
 nav_order: 2
