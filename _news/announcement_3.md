@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started working at Microsoft AI!
+Started working at Microsoft AI.

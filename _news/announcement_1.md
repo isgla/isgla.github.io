@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Very honored to receive the Walter Korn Award at the University of Pennsylvania!
+Very honored to receive the Walter Korn Award at the University of Pennsylvania.
