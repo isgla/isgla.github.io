@@ -21,8 +21,12 @@ I graduated Magna Cum Laude from the [University of Pennsylvania](https://www.up
 
 Prior to joining Hopkins, I worked as a Software Engineer at Microsoft. I was part of the [Azure AI Search](https://azure.microsoft.com/en-us/products/ai-services/ai-search/?ef_id=_k_Cj0KCQjwzt_FBhCEARIsAJGFWVk6KhZJtmiTd7MSK8NqmjQlomVTG763Eicjtu7FCJkJ4pkVbmAtjY4aAjG1EALw_wcB_k_&OCID=AIDcmm5edswduu_SEM__k_Cj0KCQjwzt_FBhCEARIsAJGFWVk6KhZJtmiTd7MSK8NqmjQlomVTG763Eicjtu7FCJkJ4pkVbmAtjY4aAjG1EALw_wcB_k_&gad_source=1&gad_campaignid=21496728177&gbraid=0AAAAADcJh_t7rT9PkVC110PbrO4zFQ50j&gclid=Cj0KCQjwzt_FBhCEARIsAJGFWVk6KhZJtmiTd7MSK8NqmjQlomVTG763Eicjtu7FCJkJ4pkVbmAtjY4aAjG1EALw_wcB) team, where I incorporated retrieval augmented generation (RAG) scenarios in Enterprise search.
 
-I am excited about harnessing foundation models for social good. In particular, I am drawn to the following research directions:
+<!-- I am excited about harnessing foundation models for social good. In particular, I am drawn to the following research directions:
 
-`NLP for Social Good: Quality in Education.` How can we use NLP research to tackle social problems? For example, in education, how can we improve students' learning experiences and empower teachers to deliver more effective instruction?
+`NLP for Social Good: Quality in Education.` How can we use NLP research to tackle social problems? For example, in education, how can we improve students' learning experiences and empower teachers to deliver more effective instruction? -->
+I am drawn to the following research directions:
+`AI for Science.` How can we accelerate scientific discovery with AI? I am currently working on developing methods with LLMs to quantify and analyze the impact of research publications.
+`AI for Education.` How can we improve students' learning experiences and empower teachers to deliver more effective instruction? I have conducted research on how summaries presented alongside video lectures enhance learning, as well as how summary style affects question generation.
+
 
 Mentoring is really important to me. If you are a student interested in doing NLP research, please feel free to reach out to me! I am always happy to talk about research or careers in CS. 
