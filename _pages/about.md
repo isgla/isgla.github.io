@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am Hannah Gonzalez [(she/her)](https://pronouns.org/she-her). I am a Ph.D. student at [Johns Hopkins University](https://www.jhu.edu) advised by [Ben Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Daniel Khashabi](https://danielkhashabi.com).
+I am Hannah (Gonzalez) Collison [(she/her)](https://pronouns.org/she-her). I am a Ph.D. student at [Johns Hopkins University](https://www.jhu.edu) advised by [Ben Van Durme](https://www.cs.jhu.edu/~vandurme/) and [Daniel Khashabi](https://danielkhashabi.com).
 
 I graduated Magna Cum Laude from the [University of Pennsylvania](https://www.upenn.edu) with an M.S.E. and a B.S.E. in Computer Science in 2023. I minored in Mathematics and Engineering Entrepreneurship as well. I am grateful to my research advisors [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/), [Eleni Miltsakaki](https://www.miltsakaki.com), and [Kostas Daniilidis](https://www.cis.upenn.edu/~kostas/).
 
