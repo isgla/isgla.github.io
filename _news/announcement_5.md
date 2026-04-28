@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Very honored to receive Best Poster Award at the Women in Data Science and AI Symposium at Johns Hopkins.
+Very honored to receive [Best Poster Award at the Women in Data Science and AI Symposium at Johns Hopkins](https://www.cs.jhu.edu/news/celebrating-women-in-data-science-and-ai/).
