@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: assets/pdf/Hannah_Resume.pdf
-title: CV
-nav: true
+title: Long CV
+nav: false
 nav_order: 2
 cv_pdf: Hannah_Resume.pdf
 toc:
