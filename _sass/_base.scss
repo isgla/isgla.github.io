@@ -658,6 +658,7 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
+  counter-reset: pub-counter;
 
   h1 {
     color: var(--global-theme-color);
@@ -691,6 +692,13 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      counter-increment: pub-counter;
+
+      .title::before {
+        content: "[" counter(pub-counter) "] ";
+        color: var(--global-text-color-light);
+        font-weight: normal;
+      }
 
       .preview {
         width: 100%;
