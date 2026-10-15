@@ -78,9 +78,15 @@
 
         {%- if forloop.length > 1 -%}
           {% if forloop.first == false %},&nbsp;{% endif %}
-          {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
+          {%- if forloop.last and author_array_limit == author_array_size and author.last != 'others' %}and&nbsp;{% endif -%}
         {% endif %}
-        {%- if author_is_self -%}
+        {%- if author.last == 'others' -%}
+          <span
+            class="more-authors"
+            title="click to view full author list"
+            {% if entry.html %}style="cursor:pointer;" onclick="window.open('{{ entry.html }}', '_blank')"{% endif %}
+          >et al.</span>
+        {%- elsif author_is_self -%}
           <em>
             {{- author.first }}
             {{ author.last -}}
